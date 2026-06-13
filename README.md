@@ -21,8 +21,8 @@
 ├── preview.php            # 文档预览页面（SVG翻页）
 ├── download.php           # 文件下载接口（隐藏真实路径）
 ├── config.php             # 系统配置文件
-├── .htaccess              # Apache访问控制配置
-└── documents/             # 文档存储目录（需手动创建）
+└── documents/            # 文档存储目录（需手动创建）
+    ├── .htaccess              # Apache访问控制配置
     ├── 分类名称/           # 二级目录：文档分类
     │   ├── 文档文件夹A/     # 三级目录：具体文档
     │   │   ├── 文档.pdf    # PDF或Word文件
