@@ -53,9 +53,7 @@
 
 在项目根目录下创建 `documents` 文件夹：
 
-```bash
-mkdir documents
-```
+```mkdir documents```
 
 ### 3. 设置目录权限
 
